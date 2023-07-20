@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\obj\Debug\net6.0\Exersise19.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\obj\Debug\net6.0\Exersise19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\obj\Debug\net6.0\Exersise19.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\obj\Debug\net6.0\Exersise19.AssemblyInfo.cs
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\obj\Debug\net6.0\Exersise19.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\bin\Debug\net6.0\Exersise19.exe
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\bin\Debug\net6.0\Exersise19.deps.json
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\bin\Debug\net6.0\Exersise19.runtimeconfig.json
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\bin\Debug\net6.0\Exersise19.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\bin\Debug\net6.0\Exersise19.pdb
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\obj\Debug\net6.0\Exersise19.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\obj\Debug\net6.0\refint\Exersise19.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\obj\Debug\net6.0\Exersise19.pdb
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\obj\Debug\net6.0\Exersise19.genruntimeconfig.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exersise19\obj\Debug\net6.0\ref\Exersise19.dll
