@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\obj\Debug\net6.0\Exercise23.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\obj\Debug\net6.0\Exercise23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\obj\Debug\net6.0\Exercise23.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\obj\Debug\net6.0\Exercise23.AssemblyInfo.cs
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\obj\Debug\net6.0\Exercise23.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\bin\Debug\net6.0\Exercise23.exe
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\bin\Debug\net6.0\Exercise23.deps.json
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\bin\Debug\net6.0\Exercise23.runtimeconfig.json
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\bin\Debug\net6.0\Exercise23.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\bin\Debug\net6.0\Exercise23.pdb
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\obj\Debug\net6.0\Exercise23.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\obj\Debug\net6.0\refint\Exercise23.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\obj\Debug\net6.0\Exercise23.pdb
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\obj\Debug\net6.0\Exercise23.genruntimeconfig.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Lesson 3\Lesson3_HW\Exercise23\obj\Debug\net6.0\ref\Exercise23.dll
